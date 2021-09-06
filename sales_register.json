@@ -1,0 +1,50 @@
+{
+    "2021-09-01 23:16:39.504696": {
+        "Item Name": "Dairy Milk",
+        "Item Quantity": 2,
+        "Item Rate": 10.0,
+        "Amount": 20.0
+    },
+    "2021-09-01 23:17:06.215207": {
+        "Item Name": "Dairy Milk",
+        "Item Quantity": 4,
+        "Item Rate": 10.0,
+        "Amount": 40.0
+    },
+    "2021-09-02 23:19:14.787175": {
+        "Item Name": "Kitkat",
+        "Item Quantity": 20,
+        "Item Rate": 20.0,
+        "Amount": 400.0
+    },
+    "2021-09-02 17:45:12.462812": {
+        "Item Name": "Kitkat",
+        "Item Quantity": 5,
+        "Item Rate": 20.0,
+        "Amount": 100.0
+    },
+    "2021-09-02 17:52:22.592896": {
+        "Item Name": "Cadbury",
+        "Item Quantity": 9,
+        "Item Rate": 15.0,
+        "Amount": 135.0
+    },
+    "2021-09-03 17:53:33.437146": {
+        "Item Name": "Cadbury",
+        "Item Quantity": 12,
+        "Item Rate": 15.0,
+        "Amount": 180.0
+    },
+    "2021-09-03 17:56:59.390534": {
+        "Item Name": "Aloo sev",
+        "Item Quantity": 6,
+        "Item Rate": 20.0,
+        "Amount": 120.0
+    },
+    "2021-09-03 18:05:30.233153": {
+        "Item Name": "Aloo sev",
+        "Item Quantity": 7,
+        "Item Rate": 20.0,
+        "Amount": 140.0
+    }
+}

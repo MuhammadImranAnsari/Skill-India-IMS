@@ -1,0 +1,152 @@
+{
+    "001": {
+        "Item Name": "dairy milk",
+        "Item Quantity": "100",
+        "Item Rate": "10",
+        "Item Category": "chocolate"
+    },
+    "002": {
+        "Item Name": "kitkat",
+        "Item Quantity": "70",
+        "Item Rate": "20",
+        "Item Category": "chocolate"
+    },
+    "003": {
+        "Item Name": "5star",
+        "Item Quantity": "50",
+        "Item Rate": "30",
+        "Item Category": "chocolate"
+    },
+    "004": {
+        "Item Name": "Cadbury",
+        "Item Quantity": "150",
+        "Item Rate": "15",
+        "Item Category": "chocolate"    
+    },
+    "005": {
+        "Item Name": "perk",
+        "Item Quantity": "50",
+        "Item Rate": "40",
+        "Item Category": "chocolate"
+    },
+    "006": {
+        "Item Name": "lays",
+        "Item Quantity": "70",
+        "Item Rate": "5",
+        "Item Category": "wafer"
+    },
+    "007": {
+        "Item Name": "Chips",
+        "Item Quantity": "100",
+        "Item Rate": "10",
+        "Item Category": "wafer"
+    },
+    "008": {
+        "Item Name": "Aloo sev",
+        "Item Quantity": "25",
+        "Item Rate": "20",
+        "Item Category": "wafer"
+    },
+    "009": {
+        "Item Name": "Balaji Wafers  ",
+        "Item Quantity": "50",
+        "Item Rate": "20",
+        "Item Category": "wafer"
+    },
+    "010": {
+        "Item Name": "Yumstix",
+        "Item Quantity": "25",
+        "Item Rate": "30",
+        "Item Category": "wafer"
+    },
+    "011": {
+        "Item Name": "Vegetarian footlong",
+        "Item Quantity": "75",
+        "Item Rate": "75",
+        "Item Category": "plate"
+    },
+    "012": {
+        "Item Name": "Footlong",
+        "Item Quantity": "95",
+        "Item Rate": "95",
+        "Item Category": "plate"
+    },
+    "013": {
+        "Item Name": "Egg & Cheese",
+        "Item Quantity": "70",
+        "Item Rate": "20",
+        "Item Category": "plate"
+    },
+    "014": {
+        "Item Name": "Bacon & Egg",
+        "Item Quantity": "70",
+        "Item Rate": "20",
+        "Item Category": "plate"
+    },
+    "015": {
+        "Item Name": "noodles",
+        "Item Quantity": "70",
+        "Item Rate": "20",
+        "Item Category": "plate"
+    },
+    "016": {
+        "Item Name": "Chicken Ham & Egg",
+        "Item Quantity": "70",
+        "Item Rate": "20",
+        "Item Category": "plate"
+    },
+    "017": {
+        "Item Name": "Econo Meal (McAloo Tikki + Small Fries + Coke)",
+        "Item Quantity": "250",
+        "Item Rate": "250",
+        "Item Category": "plate"
+    },
+    "018": {
+        "Item Name": "Good day",
+        "Item Quantity": "40",
+        "Item Rate": "10",
+        "Item Category": "Biscuit"
+    },
+    "019": {
+        "Item Name": "Oreo)",
+        "Item Quantity": "110",
+        "Item Rate": "20",
+        "Item Category": "Biscuit"
+    },
+    "020": {
+        "Item Name": "Monaco",
+        "Item Quantity": "250",
+        "Item Rate": "30",
+        "Item Category": "Biscuit"
+    },
+    "021": {
+        "Item Name": "Parle-G",
+        "Item Quantity": "70",
+        "Item Rate": "20",
+        "Item Category": "Biscuit"
+    },
+    "022": {
+        "Item Name": "Big cola",
+        "Item Quantity": "10",
+        "Item Rate": "60",
+        "Item Category": "Cold Drink"
+    },
+    "023": {
+        "Item Name": "Maza",
+        "Item Quantity": "80",
+        "Item Rate": "90",
+        "Item Category": "Cold Drink"
+    },
+    "024": {
+        "Item Name": "Sprite",
+        "Item Quantity": "70",
+        "Item Rate": "90",
+        "Item Category": "Cold Drink"
+    },
+    "025": {
+        "Item Name": "Thum-Up",
+        "Item Quantity": "50",
+        "Item Rate": "100",
+        "Item Category": "Cold Drink"
+    }
+}
